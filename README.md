@@ -6,6 +6,15 @@
 
 Entry for the make.fun bounty "One Emoji, One Dream Vacation": a pure-stdlib Python program that writes exactly one emoji — 🗻 MOUNT FUJI — and nothing else to `/output/entry.txt`. A snow-capped mountain against the sky: the single most photographed mountain on Earth and a named bucket-list destination, not just any mountain. A stranger sees the place at a glance, like a postcard; it points at one particular dream (Japan, Fuji) rather than any holiday; and it is a fresh pick against a field of beaches and planes, while staying instantly readable across cultures and screens.
 
+## Why this emoji
+
+> 🗻 U+1F5FB MOUNT FUJI
+
+A named bucket-list destination, not just any mountain. One of the brief's
+own named examples of a dream vacation, specific to one place (Fuji,
+Japan), vivid as a postcard, and fresh against a field of beaches and
+planes — while staying instantly readable across cultures and screens.
+
 ## Run it
 
 ```sh
